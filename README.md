@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Live Demo: https://canvas-editor-ad.netlify.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
