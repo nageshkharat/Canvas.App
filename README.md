@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# Canvas.Zocket.App
+# Canvas.App
 >>>>>>> 51729d18d31f59c409250b4b4d947eeda8a8c784
